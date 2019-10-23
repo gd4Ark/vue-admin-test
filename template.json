@@ -1,0 +1,1 @@
+{"name":"vue-admin","pages":[{"page":"admin","name":"overview","title":"数据概览"},{"page":"admin","name":"me","title":"我的"},{"page":"admin","name":"error","title":"错误页"},{"page":"admin","name":"login","title":"登陆"},{"page":"admin","name":"users","title":"用户","hasSub":false},{"page":"admin","name":"cards","title":"卡券","hasSub":false}]}
